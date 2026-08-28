@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yantra-demo/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/yantra-demo/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 ## 1. แก่นเรื่องและโลก (Core & World)
